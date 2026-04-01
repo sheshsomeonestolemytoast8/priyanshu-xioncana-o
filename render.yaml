@@ -1,7 +1,7 @@
 # Render.com configuration file
 services:
   - type: web
-    name: fb-messenger-bot
+    name: Xioncana'o Bot
     env: node
     plan: free
     buildCommand: npm install
