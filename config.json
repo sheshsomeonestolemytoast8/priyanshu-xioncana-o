@@ -1,16 +1,16 @@
 {
-  "mongoURI": "",
-  "ownerID": "100037743553265",
+  "mongoURI": "mongodb+srv://johnlorenceserrano929_db_user:y7RFVTbmIS9Pr7Mo@cluster0.svknxra.mongodb.net/?appName=Cluster0",
+  "ownerID": "61553808669477",
   "adminIDs": [
-    "100037743553265",
+    "61553808669477",
     "ADMIN_ID_2"
   ],
   "supportIDs": [
-    "100037743553265",
+    "61553808669477",
     "SUPPORT_ID_2"
   ],
   "adminInboxThreadID": "6567071300016227",
-  "prefix": "/",
+  "prefix": ".",
   "fcaOptions": {
     "forceLogin": false,
     "updatePresence": true,
@@ -24,7 +24,7 @@
     "autoReconnect": true,
     "userAgent": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 CrKey/1.54.250320"
   },
-  "botNickname": "FB Bot",
+  "botNickname": "Xioncana'o Bot",
   "commandEnabled": true,
   "eventEnabled": true,
   "announceImageChange": true,
@@ -58,7 +58,7 @@
     "maxReconnectAttempts": 5,
     "autoSaveAppstate": true
   },
-  "unsendReaction": "🖤",
+  "unsendReaction": "🙃",
   "apiKeys": {
     "priyanshuApi": ""
   },
